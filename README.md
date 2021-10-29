@@ -1,7 +1,7 @@
 # Dice Checker #
 ## A C++ Demo Project For Checking D20 Balance ##
 
-### How it works (In theory)###
+### How it works (In theory) ###
 
 In theory, if a die is off balance, it will tend to be less likely to roll numbers on the heavy side of the die, and more likely to roll numbers on the light side.
 While this is sometimes obvious (a die that always rolls the same number) it can sometimes be a bit more subtle.
